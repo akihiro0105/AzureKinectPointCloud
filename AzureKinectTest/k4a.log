@@ -1,0 +1,62 @@
+
+
+New logging session started
+
+[2022-06-23 11:30:09.763] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (278): ******************** Device Info ********************
+[2022-06-23 11:30:09.763] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (279): K4A SDK version:     1.3.0
+[2022-06-23 11:30:09.788] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (285): Serial Number:       000671701412
+[2022-06-23 11:30:09.788] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (289): RGB Sensor Version:  1.6.110
+[2022-06-23 11:30:09.788] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (292): Depth Sensor Version:1.6.79
+[2022-06-23 11:30:09.789] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (295): Mic Array Version:   1.6.14
+[2022-06-23 11:30:09.789] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (298): Sensor Config:       6109.7
+[2022-06-23 11:30:09.789] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (301): Build type:          Release
+[2022-06-23 11:30:09.789] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (306): Signature type:      MSFT
+[2022-06-23 11:30:09.789] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (312): ****************************************************
+[2022-06-23 13:22:42.962] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (278): ******************** Device Info ********************
+[2022-06-23 13:22:42.962] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (279): K4A SDK version:     1.3.0
+[2022-06-23 13:22:42.988] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (285): Serial Number:       000671701412
+[2022-06-23 13:22:42.988] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (289): RGB Sensor Version:  1.6.110
+[2022-06-23 13:22:42.988] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (292): Depth Sensor Version:1.6.79
+[2022-06-23 13:22:42.988] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (295): Mic Array Version:   1.6.14
+[2022-06-23 13:22:42.988] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (298): Sensor Config:       6109.7
+[2022-06-23 13:22:42.988] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (301): Build type:          Release
+[2022-06-23 13:22:42.988] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (306): Signature type:      MSFT
+[2022-06-23 13:22:42.988] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (312): ****************************************************
+[2022-06-23 14:01:15.486] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (278): ******************** Device Info ********************
+[2022-06-23 14:01:15.487] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (279): K4A SDK version:     1.3.0
+[2022-06-23 14:01:15.512] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (285): Serial Number:       000671701412
+[2022-06-23 14:01:15.512] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (289): RGB Sensor Version:  1.6.110
+[2022-06-23 14:01:15.512] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (292): Depth Sensor Version:1.6.79
+[2022-06-23 14:01:15.512] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (295): Mic Array Version:   1.6.14
+[2022-06-23 14:01:15.512] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (298): Sensor Config:       6109.7
+[2022-06-23 14:01:15.512] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (301): Build type:          Release
+[2022-06-23 14:01:15.512] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (306): Signature type:      MSFT
+[2022-06-23 14:01:15.512] [critical] [t=22244] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (312): ****************************************************
+
+
+New logging session started
+
+[2022-06-23 14:16:37.014] [critical] [t=25568] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (278): ******************** Device Info ********************
+[2022-06-23 14:16:37.014] [critical] [t=25568] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (279): K4A SDK version:     1.3.0
+[2022-06-23 14:16:37.040] [critical] [t=25568] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (285): Serial Number:       000671701412
+[2022-06-23 14:16:37.040] [critical] [t=25568] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (289): RGB Sensor Version:  1.6.110
+[2022-06-23 14:16:37.040] [critical] [t=25568] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (292): Depth Sensor Version:1.6.79
+[2022-06-23 14:16:37.040] [critical] [t=25568] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (295): Mic Array Version:   1.6.14
+[2022-06-23 14:16:37.040] [critical] [t=25568] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (298): Sensor Config:       6109.7
+[2022-06-23 14:16:37.040] [critical] [t=25568] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (301): Build type:          Release
+[2022-06-23 14:16:37.040] [critical] [t=25568] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (306): Signature type:      MSFT
+[2022-06-23 14:16:37.040] [critical] [t=25568] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (312): ****************************************************
+
+
+New logging session started
+
+[2022-06-23 14:20:10.181] [critical] [t=25396] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (278): ******************** Device Info ********************
+[2022-06-23 14:20:10.182] [critical] [t=25396] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (279): K4A SDK version:     1.3.0
+[2022-06-23 14:20:10.207] [critical] [t=25396] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (285): Serial Number:       000671701412
+[2022-06-23 14:20:10.207] [critical] [t=25396] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (289): RGB Sensor Version:  1.6.110
+[2022-06-23 14:20:10.207] [critical] [t=25396] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (292): Depth Sensor Version:1.6.79
+[2022-06-23 14:20:10.207] [critical] [t=25396] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (295): Mic Array Version:   1.6.14
+[2022-06-23 14:20:10.207] [critical] [t=25396] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (298): Sensor Config:       6109.7
+[2022-06-23 14:20:10.207] [critical] [t=25396] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (301): Build type:          Release
+[2022-06-23 14:20:10.207] [critical] [t=25396] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (306): Signature type:      MSFT
+[2022-06-23 14:20:10.207] [critical] [t=25396] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth\depth.c (312): ****************************************************
